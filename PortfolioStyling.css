@@ -1,0 +1,27 @@
+#Resume-Title {
+  text-align: center;
+  color: #5c7384;
+}
+
+#Site-Background {
+  background-color: #9FAEAA;
+  font-family: ;
+}
+
+.Fancy-Font {
+  font-family: lucida handwriting;
+  font-size: 12px;
+
+}
+
+.Border-Style {
+  border-style: solid;
+  border-color: grey;
+  border-width: 4px;
+  position: static;
+  width: 44.8%;
+}
+
+#list-sites {
+  position: relative;
+}
