@@ -1,28 +1,53 @@
-#Resume-Title {
-  text-align: center;
+.menu-buttons {
+  position:relative;
+  display: inline-block;
+  padding: 5px;
   color: #5c7384;
+  background-color: beige;
+  border-radius: 45%;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  text-wrap: nowrap;
 }
 
 #Site-Background {
   background-color: #9FAEAA;
 }
 
+.image-sizing{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.project-visuals{
+  padding: 35px;
+  position: relative;
+  width: 200px;
+  height: 250px;
+  left: 20px;
+  top: 75px;
+  display:inline-block;
+  background-color: beige;
+  border-radius: 20%;
+
+}
+
 .Fancy-Font {
   font-family: lucida handwriting;
   font-size: 12px;
   width: 200px;
-  
-
+  height: 200px;
+  margin-top: 2px;
+  overflow: hidden;
 }
 
-#First-Project-Position{
-  position: relative;
+#logo {
+  height: 5px;
+  width: 5px;
+  display: inline-block;
 }
 
-.Project-Visuals{
-  padding: 50px;
-  position: relative;
-  width: 200px;
-  left: 20px;
-  top: 10px;
-}
+
+
