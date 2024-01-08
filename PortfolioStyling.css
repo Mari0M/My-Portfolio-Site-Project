@@ -5,23 +5,24 @@
 
 #Site-Background {
   background-color: #9FAEAA;
-  font-family: ;
 }
 
 .Fancy-Font {
   font-family: lucida handwriting;
   font-size: 12px;
+  width: 200px;
+  
 
 }
 
-.Border-Style {
-  border-style: solid;
-  border-color: grey;
-  border-width: 4px;
-  position: static;
-  width: 44.8%;
-}
-
-#list-sites {
+#First-Project-Position{
   position: relative;
+}
+
+.Project-Visuals{
+  padding: 50px;
+  position: relative;
+  width: 200px;
+  left: 20px;
+  top: 10px;
 }
